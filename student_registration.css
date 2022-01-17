@@ -1,0 +1,22 @@
+h3 {
+    font-size: 25pt;
+    font-style: normal;
+    font-weight: bold;
+    color: grey;
+    text-align: center;
+    text-decoration: underline
+}
+
+table {
+    color: rgb(41, 40, 40);
+    font-size: 11pt;
+    font-style: normal;
+    font-weight: bold;
+    background-color: rgb(241, 241, 241);
+    border-collapse: collapse;
+    border: 1px dotted navy
+}
+
+button {
+    border-radius: 5px;
+}
